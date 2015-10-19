@@ -3,7 +3,7 @@ Tower of Hanoi
 
 Basic Tower of Hanoi game written in C. 
 
-![]("http://i.imgur.com/fRS9Mif.gifv")
+![](http://i.imgur.com/fRS9Mif.gif)
 
 #Use
 
